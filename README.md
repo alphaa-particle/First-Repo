@@ -1,4 +1,5 @@
 # First-Repo
 This is my first Git Repository.
 <br>
-Aurthor : Vaibhav Joshi
+Aurthor : Vaibhav Joshi(IIT KGP)
+
